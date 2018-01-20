@@ -4,6 +4,8 @@
 
 Pierwsze repo git-a
 
+**znowu o god**
+
 **lallallalala**
 
 **ania**
